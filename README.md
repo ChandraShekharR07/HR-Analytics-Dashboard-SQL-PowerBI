@@ -67,7 +67,7 @@ Employee attrition poses a major risk to organizations, leading to increased rec
 ## 💡 Power BI Dashboard Highlights
 
 - Interactive visuals with slicers for Gender, Department, Job Role, Age Group, etc.
-- Key KPIs: Total Employees, Attrited Employees, Attrition Rate, Avg. Income, Avg. Tenure
+- **Key KPIs**: Total Employees, Attrited Employees, Attrition Rate, Avg. Income, Avg. Tenure
 - Side-by-side view of original vs improved attrition rates
 - Consistent color themes: green for improvements, orange for risk
 - Drill-down by salary, education field, job level, and overtime
@@ -81,12 +81,13 @@ Employee attrition poses a major risk to organizations, leading to increased rec
 ---
 
 ## 📸 Visual Previews
+![Dashboard Overview](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/raw/main/Images/Dashboard%20Overview.png)
 
 ### 🔹 Dashboard Overview – Before Attrition Reduction
-![HR_Analytics_Dashboard_Before_Attrition_Reduction](https://github.com/ChandraShekharR07/HR-Analytics-Dashboard-SQL-PowerBI/raw/main/Images/HR_Analytics_Dashboard_Before_Attrition_Reduction.png)
+![Before_Attrition_Reduction_Dashboard_Overview](https://github.com/ChandraShekharR07/HR-Analytics-Dashboard-SQL-PowerBI/raw/main/Images/Before_Attrition_Reduction_Dashboard_Overview.png)
 
 ### 🔹 Dashboard Overview – After Attrition Reduction
-![HR_Analytics_Dashboard_After_Attrition_Reduction](https://github.com/ChandraShekharR07/HR-Analytics-Dashboard-SQL-PowerBI/raw/main/Images/HR_Analytics_Dashboard_After_Attrition_Reduction.png)
+![After_Attrition_Reduction_Dashboard_Overview](https://github.com/ChandraShekharR07/HR-Analytics-Dashboard-SQL-PowerBI/raw/main/Images/After_Attrition_Reduction_Dashboard_Overview.png)
 
 ---
 
