@@ -81,7 +81,6 @@ Employee attrition poses a major risk to organizations, leading to increased rec
 ---
 
 ## 📸 Visual Previews
-![Dashboard Overview](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/raw/main/Images/Dashboard%20Overview.png)
 
 ### 🔹 Dashboard Overview – Before Attrition Reduction
 ![Before_Attrition_Reduction_Dashboard_Overview](https://github.com/ChandraShekharR07/HR-Analytics-Dashboard-SQL-PowerBI/raw/main/Images/Before_Attrition_Reduction_Dashboard_Overview.png)
